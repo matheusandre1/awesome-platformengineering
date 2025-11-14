@@ -11,18 +11,16 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 ## Índice
 
 * [Empresas brasileiras](#empresas-brasileiras)
-* [Posts e artigos](#posts-e-artigos)
-* [Cases](#cases)
-* [Comunidades, podcasts e eventos](#comunidades-podcasts-e-eventos)
-
+* [Posts, Artigos e Podcasts](#posts-e-artigos)
   * [Artigos](#artigos)
   * [Podcasts](#podcasts)
   * [Vídeos](#vídeos)
+* [Cases](#cases)
+* [Comunidades](#comunidades-podcasts-e-eventos)
 * [Cursos e trilhas de aprendizado](#cursos-e-trilhas-de-aprendizado)
 * [Ferramentas e referências](#ferramentas-e-referências)
 * [Outras listas “awesome”](#outras-listas-awesome)
 * [Como contribuir](#como-contribuir)
-
   * [1. Via Pull Request (recomendado)](#1-via-pull-request-recomendado)
   * [2. Via Issue (forma simples e rápida)](#2-via-issue-forma-simples-e-rápida)
   * [Dúvidas e sugestões](#dúvidas-e-sugestões)
