@@ -52,8 +52,9 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 * 📽️ [Tech Talks - Como desenvolvemos o developer portal usando o Backstage.io](https://www.youtube.com/watch?v=Y57gUwb1v3g)
 * 📽️ [Platform Talks - Conhecendo a Internal Developer Platform do QuintoAndar](https://www.youtube.com/watch?v=KUsXbWtMXzcX8oDp1DwUeI)
+* 📽️ [PT-BRPlatform Engineer/DevOps Topologies - Sergio Soares André Fernandes #EngineeringSessions #1](https://www.youtube.com/watch?v=sJuE_NuLtUc&list=PLJ_lIzJ_Nd1TZ6i4HjMuBycyhwhUqlxtI&index=1)
 * *(em construção — contribua via PR ou issue)*
-
+*
 
 ---
 
@@ -123,6 +124,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 🎙️ [Podcast - LowOps Channel](https://www.youtube.com/@LowOps-Channel)
 * 🎙️ [Podcast - ProdOps](https://www.youtube.com/@ProdOps)
 * 📃 [Newsletter - Platform Rocks](https://www.linkedin.com/newsletters/platform-rocks-7131371871328980992/)
+* 📽️ [Carlos Nogueira (DevOps)](https://www.youtube.com/@carlosenog)
 
 ---
 
