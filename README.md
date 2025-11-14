@@ -118,8 +118,11 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 > Lista de newsletters, podcasts e outros criadores para acompanhar
 
-* [Newsletter Platform Rocks](https://www.linkedin.com/newsletters/platform-rocks-7131371871328980992/)
-* [Podcast Kubicast](https://www.youtube.com/playlist?list=PLtjfMRpJlYQ0w-UUmr9EUE9aGaHenfK7N)
+* 🎙️ [Podcast - Kubicast](https://www.youtube.com/playlist?list=PLtjfMRpJlYQ0w-UUmr9EUE9aGaHenfK7N)
+* 🎙️ [Podcast - Platform Rocks](https://www.youtube.com/@platformrocks)
+* 🎙️ [Podcast - LowOps Channel](https://www.youtube.com/@LowOps-Channel)
+* 🎙️ [Podcast - ProdOps](https://www.youtube.com/@ProdOps)
+* 📃 [Newsletter Platform Rocks](https://www.linkedin.com/newsletters/platform-rocks-7131371871328980992/)
 
 ---
 
