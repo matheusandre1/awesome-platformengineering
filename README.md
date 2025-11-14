@@ -36,6 +36,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 📃 [How we are improving developer experience at QuintoAndar with backstage.io - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
 * 📃 [How we are creating a knowledge base on QuintoAndar with an Open Source Q&A plugin on Backstage - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-creating-a-knowledge-base-on-quintoandar-with-an-open-source-q-a-plugin-on-backstage-279faf4d6f61)
 * 📃 [Platform Engineering não deveria ser tão complicado e vou usar League of Legends para te explicar](https://medium.com/@_gdantas/platform-engineering-n%C3%A3o-deveria-ser-t%C3%A3o-complicado-e-vou-usar-league-of-legends-para-te-explicar-0c81b296473e)
+* 📃 [Leveraging Data for Success: Understanding the Developer Experience Survey at Livelo](https://medium.com/livelo/leveraging-data-for-success-understanding-the-developer-experience-survey-at-livelo-f4a96ed170c6)
 * *(em construção — contribua via PR ou issue)*
 
 
