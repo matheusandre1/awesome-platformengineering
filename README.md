@@ -95,6 +95,8 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 * *(em construção — contribua via PR ou issue)*
 * [A ready-to-use environment for modern platform engineering experimentation, combining (B)ackstage, (A)rgoCD, (C)rossplane, and (K)yverno! ](https://github.com/wnqueiroz/platform-engineering-backstack)
+* [Alternative Backstage Distro | VeeCode](https://github.com/veecode-platform/devportal-distro)
+* [Backstage Plugins Made in Brazil | VeeCode](https://github.com/veecode-platform/platform-backstage-plugins?tab=readme-ov-file)
 
 ---
 
