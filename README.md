@@ -51,6 +51,23 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 * *(em construção — envie via PR ou issue)*
 
+### Artigos
+
+- [How we are improving developer experience at QuintoAndar with backstage.io - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
+
+- [How we are creating a knowledge base on QuintoAndar with an Open Source Q&A plugin on Backstage - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-creating-a-knowledge-base-on-quintoandar-with-an-open-source-q-a-plugin-on-backstage-279faf4d6f61)
+
+### Podcasts
+
+- [QuintoCast: "Tornando a Engenharia do QuintoAndar navegável"](https://open.spotify.com/episode/5VUnjZGGIHBqiD8HHKHyd0?si=adcc7b390dbf45ef)
+- [Tech Leadership Rocks - Plataforma de desenvolvedores no QuintoAndar](https://techleadership.rocks/2023/10/22/plataforma-de-desenvolvedores-com-victor-fonseca-gabriel-dantas-leo-vieira-e-caio-queiroz/)
+
+### Vídeos
+
+- [Tech Talks - Como desenvolvemos o developer portal usando o Backstage.io](https://www.youtube.com/watch?v=Y57gUwb1v3g)
+
+- [Platform Talks - Conhecendo a Internal Developer Platform do QuintoAndar](https://www.youtube.com/watch?v=KUsXbWtMXzcX8oDp1DwUeI)
+
 ---
 
 ## Cursos e trilhas de aprendizado
