@@ -41,6 +41,8 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 * 🎤 [QuintoCast: "Tornando a Engenharia do QuintoAndar navegável"](https://open.spotify.com/episode/5VUnjZGGIHBqiD8HHKHyd0?si=adcc7b390dbf45ef)
 * 🎤 [Tech Leadership Rocks - Plataforma de desenvolvedores no QuintoAndar](https://techleadership.rocks/2023/10/22/plataforma-de-desenvolvedores-com-victor-fonseca-gabriel-dantas-leo-vieira-e-caio-queiroz/)
+* 🎤 [Escovando Bits - #68 O que é Engenharia de Plataforma? ft. Gui Santos](https://open.spotify.com/episode/1nGLEAEEkbeBzBRc8YBvza)
+* 🎤 [Hipsters Ponto Tech - #452 Desvendando a Engenharia de Plataforma](https://www.hipsters.tech/desvendando-a-engenharia-de-plataforma-hipsters-ponto-tech-452/)
 
 ### Vídeos
 
