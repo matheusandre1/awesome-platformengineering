@@ -39,7 +39,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ## Posts e artigos
 
-> **Placeholder:** Artigos em pt-BR (ou de autores brasileiros) explicando conceitos, práticas ou aprendizados de Platform Engineering.
+> Artigos em pt-BR (ou de autores brasileiros) explicando conceitos, práticas ou aprendizados de Platform Engineering.
 
 * *(em construção — contribua via PR ou issue)*
 
@@ -47,7 +47,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ## Cases
 
-> **Placeholder:** Estudos de caso públicos de empresas brasileiras adotando Platform Engineering.
+> Estudos de caso públicos de empresas brasileiras adotando Platform Engineering.
 
 * *(em construção — contribua via PR ou issue)*
 
@@ -55,7 +55,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ## Comunidades, podcasts e eventos
 
-> **Placeholder:** Comunidades, grupos, meetups, podcasts e eventos brasileiros sobre Platform Engineering e Developer Experience.
+> Comunidades, grupos, meetups, podcasts e eventos brasileiros sobre Platform Engineering e Developer Experience.
 
 * *(em construção — contribua via PR ou issue)*
 
@@ -79,7 +79,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ## Cursos e trilhas de aprendizado
 
-> **Placeholder:** Trilhas, cursos e formações relevantes para quem quer aprender Platform Engineering.
+> Trilhas, cursos e formações relevantes para quem quer aprender Platform Engineering.
 
 * *(em construção — contribua via PR ou issue)*
 
@@ -87,7 +87,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ## Ferramentas e referências
 
-> **Placeholder:** Ferramentas, frameworks, repositórios e materiais úteis.
+> Ferramentas, frameworks, repositórios e materiais úteis.
 
 * *(em construção — contribua via PR ou issue)*
 
@@ -95,7 +95,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ## Outras listas “awesome”
 
-> **Placeholder:** Listas globais de referência para complementar o estudo.
+> Listas globais de referência para complementar o estudo.
 
 * *(em construção — contribua via PR ou issue)*
 
