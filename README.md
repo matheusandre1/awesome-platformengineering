@@ -37,11 +37,27 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ---
 
-## Posts e artigos
+## Posts, Artigos e Podcasts
 
-> Artigos em pt-BR (ou de autores brasileiros) explicando conceitos, práticas ou aprendizados de Platform Engineering.
+> Conteúdo em pt-BR (ou de autores brasileiros) explicando conceitos, práticas ou aprendizados de Platform Engineering.
 
-* *(em construção — contribua via PR ou issue)*
+### Artigos
+
+* 📃 [How we are improving developer experience at QuintoAndar with backstage.io - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
+* 📃 [How we are creating a knowledge base on QuintoAndar with an Open Source Q&A plugin on Backstage - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-creating-a-knowledge-base-on-quintoandar-with-an-open-source-q-a-plugin-on-backstage-279faf4d6f61)
+* 📃 [Platform Engineering não deveria ser tão complicado e vou usar League of Legends para te explicar](https://medium.com/@_gdantas/platform-engineering-n%C3%A3o-deveria-ser-t%C3%A3o-complicado-e-vou-usar-league-of-legends-para-te-explicar-0c81b296473e)
+
+### Podcasts
+
+* 🎤 [QuintoCast: "Tornando a Engenharia do QuintoAndar navegável"](https://open.spotify.com/episode/5VUnjZGGIHBqiD8HHKHyd0?si=adcc7b390dbf45ef)
+* 🎤 [Tech Leadership Rocks - Plataforma de desenvolvedores no QuintoAndar](https://techleadership.rocks/2023/10/22/plataforma-de-desenvolvedores-com-victor-fonseca-gabriel-dantas-leo-vieira-e-caio-queiroz/)
+
+
+### Vídeos
+
+* 📽️ [Tech Talks - Como desenvolvemos o developer portal usando o Backstage.io](https://www.youtube.com/watch?v=Y57gUwb1v3g)
+* 📽️ [Platform Talks - Conhecendo a Internal Developer Platform do QuintoAndar](https://www.youtube.com/watch?v=KUsXbWtMXzcX8oDp1DwUeI)
+
 
 ---
 
@@ -53,27 +69,12 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 
 ---
 
-## Comunidades, podcasts e eventos
+## Comunidades
 
 > Comunidades, grupos, meetups, podcasts e eventos brasileiros sobre Platform Engineering e Developer Experience.
 
 * *(em construção — contribua via PR ou issue)*
 
-### Artigos
-
-* [How we are improving developer experience at QuintoAndar with backstage.io - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
-* [How we are creating a knowledge base on QuintoAndar with an Open Source Q&A plugin on Backstage - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-creating-a-knowledge-base-on-quintoandar-with-an-open-source-q-a-plugin-on-backstage-279faf4d6f61)
-* [Platform Engineering não deveria ser tão complicado e vou usar League of Legends para te explicar](https://medium.com/@_gdantas/platform-engineering-n%C3%A3o-deveria-ser-t%C3%A3o-complicado-e-vou-usar-league-of-legends-para-te-explicar-0c81b296473e)
-
-### Podcasts
-
-* [QuintoCast: "Tornando a Engenharia do QuintoAndar navegável"](https://open.spotify.com/episode/5VUnjZGGIHBqiD8HHKHyd0?si=adcc7b390dbf45ef)
-* [Tech Leadership Rocks - Plataforma de desenvolvedores no QuintoAndar](https://techleadership.rocks/2023/10/22/plataforma-de-desenvolvedores-com-victor-fonseca-gabriel-dantas-leo-vieira-e-caio-queiroz/)
-
-### Vídeos
-
-* [Tech Talks - Como desenvolvemos o developer portal usando o Backstage.io](https://www.youtube.com/watch?v=Y57gUwb1v3g)
-* [Platform Talks - Conhecendo a Internal Developer Platform do QuintoAndar](https://www.youtube.com/watch?v=KUsXbWtMXzcX8oDp1DwUeI)
 
 ---
 
