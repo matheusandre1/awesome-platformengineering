@@ -122,7 +122,7 @@ Curadoria de empresas, cases, conteúdos e ferramentas sobre Platform Engineerin
 * 🎙️ [Podcast - Platform Rocks](https://www.youtube.com/@platformrocks)
 * 🎙️ [Podcast - LowOps Channel](https://www.youtube.com/@LowOps-Channel)
 * 🎙️ [Podcast - ProdOps](https://www.youtube.com/@ProdOps)
-* 📃 [Newsletter Platform Rocks](https://www.linkedin.com/newsletters/platform-rocks-7131371871328980992/)
+* 📃 [Newsletter - Platform Rocks](https://www.linkedin.com/newsletters/platform-rocks-7131371871328980992/)
 
 ---
 
